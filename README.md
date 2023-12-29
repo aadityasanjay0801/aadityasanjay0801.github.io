@@ -100,8 +100,8 @@ Publication link: https://adasci.org/lattice-volume-4-issue-1/building-a-scalabl
 - Scalable AI tool for anomaly detection and root cause analysis on operations metric data, with highly scalable
 feature store for parallel ingestion of large numbers of time-series.
 
-##
 
+<br><br>
 Thankl You
 
 
