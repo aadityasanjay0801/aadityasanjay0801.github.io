@@ -33,16 +33,16 @@
 
 <p>
 	<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(48px, 1fr)); gap: 10px;">
-  <img src="icons/python-color.svg" width="48" height="48" alt="Icon 2 description">
-  <img src="icons/fastapi-color.svg" width="48" height="48" alt="Icon 2 description">
-  <img src="icons/postgresql-color.svg" width="48" height="48" alt="Icon 2 description">
-  <img src="icons/pandas-color.svg" width="48" height="48" alt="Icon 2 description">
-  <img src="icons/numpy-color.svg" width="48" height="48" alt="Icon 2 description">
-  <img src="icons/pytorch-color.svg" width="48" height="48" alt="Icon 1 description">
-  <img src="icons/keras-color.svg" width="48" height="48" alt="Icon 2 description">
-  <img src="icons/scikitlearn-color.svg" width="48" height="48" alt="Icon 2 description">
-  <img src="icons/tensorflow-color.svg" width="48" height="48" alt="Icon 2 description">
-  <img src="icons/hf-logo.svg" width="48" height="48" alt="Icon 2 description">
+  <img src="icons/python-color.svg" width="40" height="40" alt="Icon 2 description">
+  <img src="icons/fastapi-color.svg" width="40" height="40" alt="Icon 2 description">
+  <img src="icons/postgresql-color.svg" width="40" height="40" alt="Icon 2 description">
+  <img src="icons/pandas-color.svg" width="40" height="40" alt="Icon 2 description">
+  <img src="icons/numpy-color.svg" width="40" height="40" alt="Icon 2 description">
+  <img src="icons/pytorch-color.svg" width="40" height="40" alt="Icon 1 description">
+  <img src="icons/keras-color.svg" width="40" height="40" alt="Icon 2 description">
+  <img src="icons/scikitlearn-color.svg" width="40" height="40" alt="Icon 2 description">
+  <img src="icons/tensorflow-color.svg" width="40" height="40" alt="Icon 2 description">
+  <img src="icons/hf-logo.svg" width="40" height="40" alt="Icon 2 description">
 
   </div>
 </p>
@@ -61,10 +61,10 @@
 
 <p>
 	<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(24px, 1fr)); gap: 2px;">
-  <img src="icons/python-color.svg" width="48" height="48" alt="Icon 2 description">
-  <img src="icons/apachehadoop-color.svg" width="48" height="48" alt="Icon 2 description">
-  <img src="icons/apachehive-color.svg" width="48" height="48" alt="Icon 2 description">
-  <img src="icons/tableau-color.svg" width="48" height="48" alt="Icon 2 description">
+  <img src="icons/python-color.svg" width="40" height="40" alt="Icon 2 description">
+  <img src="icons/apachehadoop-color.svg" width="40" height="40" alt="Icon 2 description">
+  <img src="icons/apachehive-color.svg" width="40" height="40" alt="Icon 2 description">
+  <img src="icons/tableau-color.svg" width="40" height="40" alt="Icon 2 description">
   </div>       
 </p>
 
