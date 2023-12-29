@@ -79,7 +79,7 @@
 
 <h4 href = "https://github.com/aadityasanjay0801/llm-fine-tuning"> Project Link </h4>
 <a href="https://github.com/aadityasanjay0801/llm-fine-tuning">
-  <img src="icons/github.svg"width="30" height="30" alt="https://github.com/aadityasanjay0801/llm-fine-tuning">
+  <img src="icons/github.svg" width="30" height="30" alt="https://github.com/aadityasanjay0801/llm-fine-tuning">
 </a>
 <!-- <img src="" width="30" height="30" link = "https://github.com/aadityasanjay0801/llm-fine-tuning" alt="Icon 2 description">  -->
 
@@ -93,7 +93,7 @@
 
 <h4 href = "https://github.com/aadityasanjay0801/llm-fine-tuning"> Project Link </h4>
 <a href="https://github.com/aadityasanjay0801/candidate-qna ">
-  <img src="icons/github.svg"width="30" height="30" alt="https://github.com/aadityasanjay0801/candidate-qna">
+  <img src="icons/github.svg" width="30" height="30" alt="https://github.com/aadityasanjay0801/candidate-qna">
 </a>
 
 
