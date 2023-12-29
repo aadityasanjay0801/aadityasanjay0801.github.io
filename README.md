@@ -91,7 +91,7 @@
 
 <h4 > <a href = "https://github.com/aadityasanjay0801/llm-fine-tuning"> Project Link </a></h4>
 <a href="https://github.com/aadityasanjay0801/candidate-qna ">
-  <img src="icons/github.svg" width="30" height="30" alt="https://github.com/aadityasanjay0801/candidate-qna"></img>
+  <img src="icons/github.svg" width="30" height="30" alt="https://github.com/aadityasanjay0801/candidate-qna">
 </a>
 
 
