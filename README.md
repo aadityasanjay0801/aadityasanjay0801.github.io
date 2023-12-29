@@ -1,5 +1,5 @@
 
-# Aaditya Sharma
+<h1 align = 'center'> Aaditya Sharma </h1>
 <p align = 'center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5500&pause=1500&color=3FAE18&background=010A06B0&center=true&vCenter=true&random=false&width=435&lines=I+am+a+Data+Scientist;I+am+a+Software+Engineer;I+am+a++Machine+Learning+Engineer" alt="Typing SVG" /></a>
 <br>
@@ -16,15 +16,16 @@
 	<a href="mailto:aadityasanjay08@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email Me:" alt="Gmail"/></a>
 </div>
 
-# Work Experiences
+<h1> Work Experiences </h1>
 
 
-## Machine Learning Engineer - Comcast India - Applied AI - Chennai, India 
+<h2> Machine Learning Engineer - Comcast India - Applied AI - Chennai, India </h2>
 
-
-- Worked with different use cases to enhance user and developer experiences using AI, scaled ML applications to serve larger use cases, worked in a perfect blend of all trades to research, build, productionise and ship.
-- Building a multi-dimensional AI triage product which does, event correlation, automatic log analysis, anomaly detection and much more to revolutionize triage and and IT operation space.
-- Worked with novel use-cases in fast pace environment, performed user studies to bridge gap in product and requirments.
+<ul>
+<li> Worked with different use cases to enhance user and developer experiences using AI, scaled ML applications to serve larger use cases, worked in a perfect blend of all trades to research, build, productionise and ship. </li>
+<li> Building a multi-dimensional AI triage product which does, event correlation, automatic log analysis, anomaly detection and much more to revolutionize triage and and IT operation space. </li>
+<li> Worked with novel use-cases in fast pace environment, performed user studies to bridge gap in product and requirments. </li>
+</ul>
 <br>
 <b>Frameworks:</b> Pytorch, Keras, Scikit Learn, Numpy, Pandas, FastAPI, PostgreSQL, Plotly - Python
 <br>
@@ -48,10 +49,11 @@
 </p>
 
 
-## Analytics Intern -  Synchrony - Analytics - Hyderabad, India
-
-- Worked with different stakeholders on different usecases like service delivery for linking of change and downtime incidents and for debt restructuring to understand troubled debt for lending compliance.
-- Worked with Big data platform team to develop alerting system for Hadoop file system monitoring.
+<h2> Analytics Intern -  Synchrony - Analytics - Hyderabad, India </h2>
+<ul>
+<li> Worked with different stakeholders on different usecases like service delivery for linking of change and downtime incidents and for debt restructuring to understand troubled debt for lending compliance.</li>
+<li> Worked with Big data platform team to develop alerting system for Hadoop file system monitoring.</li>
+</ul>
 <br>
 <b>Frameworks:</b> Tableau, Python, Hive for SQL
 <br>
@@ -67,38 +69,52 @@
 </p>
 
 
-# Projects - Somethings I learnt 
-## Fine tuning a LLM for news article summarization
-- Fine tuned <b>flan-t5-small</b> for specific task of summarizing news articles, used huggingface trainer for training and BERT score as an evaluation metric. 
-- Fine tuned model for retaining context while maintaining good length for summaries.
+<h1> Projects - Somethings I learnt </h1>
+<h2> Fine tuning a LLM for news article summarization </h2>
+<ul>
+<li> Fine tuned <b>flan-t5-small</b> for specific task of summarizing news articles, used huggingface trainer for training and BERT score as an evaluation metric. </li>
+<li> Fine tuned model for retaining context while maintaining good length for summaries. </li>
+</ul>
 <br>
 
-#### Project Link - https://github.com/aadityasanjay0801/llm-fine-tuning
-<img src="icons/github.svg" width="30" height="30" alt="Icon 2 description"> 
+<h4 href = "https://github.com/aadityasanjay0801/llm-fine-tuning"> Project Link </h4>
+<a href="https://github.com/aadityasanjay0801/llm-fine-tuning">
+  <img src="icons/github.svg"width="30" height="30" alt="https://github.com/aadityasanjay0801/llm-fine-tuning">
+</a>
+<!-- <img src="" width="30" height="30" link = "https://github.com/aadityasanjay0801/llm-fine-tuning" alt="Icon 2 description">  -->
 
 
-## Candidate QnA - A RAG Application - Powered by Google PaLM
-- Built a RAG application to answer questions about a candidate based on their resume.
-- Used prompt engineering to fine tune LLM response and retrieve specific information.
-- Used PaLM embeddings, FAISS vector store, Langchain, and gradio.
+<h2> Candidate QnA - A RAG Application - Powered by Google PaLM </h2>
+<ul>
+<li> Built a Retriever Augmented Generation (RAG) application to answer questions about a candidate based on their resume.</li>
+<li> Used prompt engineering to fine tune LLM response and retrieve specific information.</li>
+<li> Used PaLM embeddings, FAISS vector store, Langchain, and gradio.<li>
+</ul>
 
-#### Project Link - https://github.com/aadityasanjay0801/candidate-qna   
-<img src="icons/github.svg" width="30" height="30" alt="Icon 2 description"> 
+<h4 href = "https://github.com/aadityasanjay0801/llm-fine-tuning"> Project Link </h4>
+<a href="https://github.com/aadityasanjay0801/candidate-qna ">
+  <img src="icons/github.svg"width="30" height="30" alt="https://github.com/aadityasanjay0801/candidate-qna">
+</a>
 
-# Publications
 
-## Use of Spatio-temporal Features for Earthquake Forecasting of imbalanced Data
+<h1> Publications </h1>
+
+<h2> Use of Spatio-temporal Features for Earthquake Forecasting of imbalanced Data </h2>
 Published IEEE - December 2022 <br>
 DOI: https://doi.org/10.1109/ICIIET55458.2022.9967687
-- Novel feature engineering approach for geospatial and sequential data to create spatial and temporal features for
+<ul>
+<li> Novel feature engineering approach for geospatial and sequential data to create spatial and temporal features for
 earthquake forecasting, achieving 93.91% accuracy and 97.25% precision on highly imbalanced data. Density
-estimations are used to include spatial features like fault density in the dataset.
+estimations are used to include spatial features like fault density in the dataset.</li>
+</ul>
 
-## Building a scalable real-time ML inference platform for AIOps
+<h2> Building a scalable real-time ML inference platform for AIOps <h2>
 Published Lattice - January 2023 <br>
 Publication link: https://adasci.org/lattice-volume-4-issue-1/building-a-scalable-real-time-ml-inference-platform-for-aiops/
-- Scalable AI tool for anomaly detection and root cause analysis on operations metric data, with highly scalable
-feature store for parallel ingestion of large numbers of time-series.
+<ul>
+<li> Scalable AI tool for anomaly detection and root cause analysis on operations metric data, with highly scalable
+feature store for parallel ingestion of large numbers of time-series.</li>
+</ul>
 
 
 <br><br>
