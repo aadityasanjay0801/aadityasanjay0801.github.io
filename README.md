@@ -75,7 +75,7 @@
 <li> Fine tuned <b>flan-t5-small</b> for specific task of summarizing news articles, used huggingface trainer for training and BERT score as an evaluation metric. </li>
 <li> Fine tuned model for retaining context while maintaining good length for summaries. </li>
 </ul>
-<h4 href = "https://github.com/aadityasanjay0801/llm-fine-tuning"> Project Link </h4>
+<h4> <a href = "https://github.com/aadityasanjay0801/llm-fine-tuning">Project Link </a></h4>
 <a href="https://github.com/aadityasanjay0801/llm-fine-tuning">
   <img src="icons/github.svg" width="30" height="30" alt="https://github.com/aadityasanjay0801/llm-fine-tuning">
 </a>
@@ -89,7 +89,7 @@
 <li> Used PaLM embeddings, FAISS vector store, Langchain, and gradio.</li>
 </ul>
 
-<h4 href = "https://github.com/aadityasanjay0801/llm-fine-tuning"> Project Link </h4>
+<h4 > <a href = "https://github.com/aadityasanjay0801/llm-fine-tuning"> Project Link </a></h4>
 <a href="https://github.com/aadityasanjay0801/candidate-qna ">
   <img src="icons/github.svg" width="30" height="30" alt="https://github.com/aadityasanjay0801/candidate-qna"></img>
 </a>
