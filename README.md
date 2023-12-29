@@ -1,4 +1,9 @@
-
+<style>
+  body {
+    background-color: #000000; /* Adjust color as desired */
+    color: #eee; /* Adjust text color for contrast */
+  }
+</style>
 <h1 align = 'center'> Aaditya Sharma </h1>
 <p align = 'center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5500&pause=1500&color=51DF1E&background=000000&center=true&vCenter=true&random=false&width=435&lines=I+am+a+Data+Scientist;I+am+a+Software+Engineer;I+am+a++Machine+Learning+Engineer" alt="Typing SVG" /></a>
