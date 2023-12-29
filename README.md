@@ -43,11 +43,7 @@
   <img src="icons/pytorch.svg" width="48" height="48" alt="Icon 2 description">
   <img src="icons/scikitlearn.svg" width="48" height="48" alt="Icon 2 description">
   <img src="icons/tensorflow.svg" width="48" height="48" alt="Icon 2 description">
-
-
-
   </div>
-       
 </p>
 
 
@@ -61,7 +57,7 @@
 <b>Skills:</b> Data Visualization, Data analytics
 
 <p>
-	<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(48px, 1fr)); gap: 10px;">
+	<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(48px, 1fr)); gap: 2px;">
   <img src="icons/python.svg" width="48" height="48" alt="Icon 2 description">
   <img src="icons/apachehadoop.svg" width="48" height="48" alt="Icon 2 description">
   <img src="icons/apachehive.svg" width="48" height="48" alt="Icon 2 description">
