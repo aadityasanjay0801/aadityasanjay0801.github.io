@@ -20,7 +20,7 @@
 
 
 <h2> Machine Learning Engineer - Comcast India - Applied AI - Chennai, India </h2>
-
+<h4> July 2022 - Present </h4>
 <ul>
 <li> Worked with different use cases to enhance user and developer experiences using AI, scaled ML applications to serve larger use cases, worked in a perfect blend of all trades to research, build, productionise and ship. </li>
 <li> Building a multi-dimensional AI triage product which does, event correlation, automatic log analysis, anomaly detection and much more to revolutionize triage and and IT operation space. </li>
@@ -33,15 +33,15 @@
 
 <p>
 	<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(48px, 1fr)); gap: 10px;">
-  <img src="icons/python.svg" width="48" height="48" alt="Icon 2 description">
-  <img src="icons/fastapi.svg" width="48" height="48" alt="Icon 2 description">
-  <img src="icons/postgresql.svg" width="48" height="48" alt="Icon 2 description">
-  <img src="icons/pandas.svg" width="48" height="48" alt="Icon 2 description">
-  <img src="icons/numpy.svg" width="48" height="48" alt="Icon 2 description">
-  <img src="icons/pytorch.svg" width="48" height="48" alt="Icon 1 description">
-  <img src="icons/keras.svg" width="48" height="48" alt="Icon 2 description">
-  <img src="icons/scikitlearn.svg" width="48" height="48" alt="Icon 2 description">
-  <img src="icons/tensorflow.svg" width="48" height="48" alt="Icon 2 description">
+  <img src="icons/python-color.svg" width="48" height="48" alt="Icon 2 description">
+  <img src="icons/fastapi-color.svg" width="48" height="48" alt="Icon 2 description">
+  <img src="icons/postgresql-color.svg" width="48" height="48" alt="Icon 2 description">
+  <img src="icons/pandas-color.svg" width="48" height="48" alt="Icon 2 description">
+  <img src="icons/numpy-color.svg" width="48" height="48" alt="Icon 2 description">
+  <img src="icons/pytorch-color.svg" width="48" height="48" alt="Icon 1 description">
+  <img src="icons/keras-color.svg" width="48" height="48" alt="Icon 2 description">
+  <img src="icons/scikitlearn-color.svg" width="48" height="48" alt="Icon 2 description">
+  <img src="icons/tensorflow-color.svg" width="48" height="48" alt="Icon 2 description">
   <img src="icons/hf-logo.svg" width="48" height="48" alt="Icon 2 description">
 
   </div>
@@ -49,6 +49,7 @@
 
 
 <h2> Analytics Intern -  Synchrony - Analytics - Hyderabad, India </h2>
+<h4> August 2021 - December 2021 </h4>
 <ul>
 <li> Worked with different stakeholders on different usecases like service delivery for linking of change and downtime incidents and for debt restructuring to understand troubled debt for lending compliance.</li>
 <li> Worked with Big data platform team to develop alerting system for Hadoop file system monitoring.</li>
@@ -60,10 +61,10 @@
 
 <p>
 	<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(24px, 1fr)); gap: 2px;">
-  <img src="icons/python.svg" width="48" height="48" alt="Icon 2 description">
-  <img src="icons/apachehadoop.svg" width="48" height="48" alt="Icon 2 description">
-  <img src="icons/apachehive.svg" width="48" height="48" alt="Icon 2 description">
-  <img src="icons/tableau.svg" width="48" height="48" alt="Icon 2 description">
+  <img src="icons/python-color.svg" width="48" height="48" alt="Icon 2 description">
+  <img src="icons/apachehadoop-color.svg" width="48" height="48" alt="Icon 2 description">
+  <img src="icons/apachehive-color.svg" width="48" height="48" alt="Icon 2 description">
+  <img src="icons/tableau-color.svg" width="48" height="48" alt="Icon 2 description">
   </div>       
 </p>
 
