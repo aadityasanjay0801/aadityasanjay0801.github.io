@@ -40,7 +40,6 @@
   <img src="icons/numpy.svg" width="48" height="48" alt="Icon 2 description">
   <img src="icons/pytorch.svg" width="48" height="48" alt="Icon 1 description">
   <img src="icons/keras.svg" width="48" height="48" alt="Icon 2 description">
-  <img src="icons/pytorch.svg" width="48" height="48" alt="Icon 2 description">
   <img src="icons/scikitlearn.svg" width="48" height="48" alt="Icon 2 description">
   <img src="icons/tensorflow.svg" width="48" height="48" alt="Icon 2 description">
   <img src="icons/hf-logo.svg" width="48" height="48" alt="Icon 2 description">
