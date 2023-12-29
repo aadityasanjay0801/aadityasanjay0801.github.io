@@ -1,9 +1,9 @@
 
 <h1 align = 'center'> Aaditya Sharma </h1>
 <p align = 'center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5500&pause=1500&color=3FAE18&background=010A06B0&center=true&vCenter=true&random=false&width=435&lines=I+am+a+Data+Scientist;I+am+a+Software+Engineer;I+am+a++Machine+Learning+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5500&pause=1500&color=51DF1E&background=000000&center=true&vCenter=true&random=false&width=435&lines=I+am+a+Data+Scientist;I+am+a+Software+Engineer;I+am+a++Machine+Learning+Engineer" alt="Typing SVG" /></a>
 <br>
- Machine Learning engineer with more than 2 years of experience, grinds to research, build, scale and ship continuously.
+ Machine Learning engineer with more than 2 years of experience, grinds to research, build, scale and ship continuously.<br>
  Looking for new areas to venture into. 
  <i>Ping me if you have some ideas ........ </i>
  <!-- ## Connect with me -->
@@ -27,7 +27,7 @@
 <li> Worked with novel use-cases in fast pace environment, performed user studies to bridge gap in product and requirments. </li>
 </ul>
 <br>
-<b>Frameworks:</b> Pytorch, Keras, Scikit Learn, Numpy, Pandas, FastAPI, PostgreSQL, Plotly - Python
+<b>Frameworks:</b> Pytorch, Keras, Scikit Learn, Numpy, Pandas, FastAPI, PostgreSQL, Plotly, Langchain, HuggingFace - Python
 <br>
 <b>Skills:</b> NLP, Timeseries, Anomaly Detection, Machine Learning
 
@@ -60,7 +60,7 @@
 <b>Skills:</b> Data Visualization, Data analytics
 
 <p>
-	<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(48px, 1fr)); gap: 2px;">
+	<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(24px, 1fr)); gap: 2px;">
   <img src="icons/python.svg" width="48" height="48" alt="Icon 2 description">
   <img src="icons/apachehadoop.svg" width="48" height="48" alt="Icon 2 description">
   <img src="icons/apachehive.svg" width="48" height="48" alt="Icon 2 description">
@@ -75,8 +75,6 @@
 <li> Fine tuned <b>flan-t5-small</b> for specific task of summarizing news articles, used huggingface trainer for training and BERT score as an evaluation metric. </li>
 <li> Fine tuned model for retaining context while maintaining good length for summaries. </li>
 </ul>
-<br>
-
 <h4 href = "https://github.com/aadityasanjay0801/llm-fine-tuning"> Project Link </h4>
 <a href="https://github.com/aadityasanjay0801/llm-fine-tuning">
   <img src="icons/github.svg" width="30" height="30" alt="https://github.com/aadityasanjay0801/llm-fine-tuning">
@@ -93,7 +91,7 @@
 
 <h4 href = "https://github.com/aadityasanjay0801/llm-fine-tuning"> Project Link </h4>
 <a href="https://github.com/aadityasanjay0801/candidate-qna ">
-  <img src="icons/github.svg" width="30" height="30" alt="https://github.com/aadityasanjay0801/candidate-qna">
+  <img src="icons/github.svg" width="30" height="30" alt="https://github.com/aadityasanjay0801/candidate-qna"></img>
 </a>
 
 
