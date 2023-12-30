@@ -29,7 +29,10 @@
 <ul>
 <li> Worked with different use cases to enhance user and developer experiences using AI, scaled ML applications to serve larger use cases, worked in a perfect blend of all trades to research, build, productionise and ship. </li>
 <li> Building a multi-dimensional AI triage product which does, event correlation, automatic log analysis, anomaly detection and much more to revolutionize triage and and IT operation space. </li>
+<li> Implemented Anomaly Transformers for timeseries anomaly detection for a product using AI for IT operations and triage. </li>
+<li> Built a fraud detection system with tree based models to identify fraudulent transactions for Xfinity.com (ECom Platform)</li>
 <li> Worked with novel use-cases in fast pace environment, performed user studies to bridge gap in product and requirments. </li>
+
 </ul>
 <br>
 <b>Frameworks:</b> Pytorch, Keras, Scikit Learn, Numpy, Pandas, FastAPI, PostgreSQL, Plotly, Langchain, HuggingFace - Python
