@@ -76,6 +76,26 @@
   </div>       
 </p>
 
+<h1> Publications </h1>
+
+<h2> Use of Spatio-temporal Features for Earthquake Forecasting of imbalanced Data </h2>
+Published IEEE - December 2022 <br>
+DOI: <a href="https://doi.org/10.1109/ICIIET55458.2022.9967687"> Publication Link</a>
+<ul>
+<li> Novel feature engineering approach for geospatial and sequential data to create spatial and temporal features for
+earthquake forecasting, achieving 93.91% accuracy and 97.25% precision on highly imbalanced data. Density
+estimations are used to include spatial features like fault density in the dataset.</li>
+</ul>
+
+<h2> Building a scalable real-time ML inference platform for AIOps </h2>
+Published Lattice - January 2023 <br>
+
+Publication Link: <a href="https://adasci.org/lattice-volume-4-issue-1/building-a-scalable-real-time-ml-inference-platform-for-aiops/"> Publication Link</a>
+
+<ul>
+<li> Scalable AI tool for anomaly detection and root cause analysis on operations metric data, with highly scalable
+feature store for parallel ingestion of large numbers of time-series.</li>
+</ul>
 
 <h1> Projects - Somethings I learnt </h1>
 <h2> Fine tuning a LLM for news article summarization </h2>
@@ -103,26 +123,7 @@
 </a>
 
 
-<h1> Publications </h1>
 
-<h2> Use of Spatio-temporal Features for Earthquake Forecasting of imbalanced Data </h2>
-Published IEEE - December 2022 <br>
-DOI: <a href="https://doi.org/10.1109/ICIIET55458.2022.9967687"> Publication Link</a>
-<ul>
-<li> Novel feature engineering approach for geospatial and sequential data to create spatial and temporal features for
-earthquake forecasting, achieving 93.91% accuracy and 97.25% precision on highly imbalanced data. Density
-estimations are used to include spatial features like fault density in the dataset.</li>
-</ul>
-
-<h2> Building a scalable real-time ML inference platform for AIOps </h2>
-Published Lattice - January 2023 <br>
-
-Publication Link: <a href="https://adasci.org/lattice-volume-4-issue-1/building-a-scalable-real-time-ml-inference-platform-for-aiops/"> Publication Link</a>
-
-<ul>
-<li> Scalable AI tool for anomaly detection and root cause analysis on operations metric data, with highly scalable
-feature store for parallel ingestion of large numbers of time-series.</li>
-</ul>
 
 
 <br><br>
